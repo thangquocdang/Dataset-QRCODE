@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>IMAG0401.jpg</filename>
+	<path>C:\Users\quoct\OneDrive - Danang University of Technology\Desktop\DataSSD\images\IMAG0401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barcode</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>11</ymin>
+			<xmax>464</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
